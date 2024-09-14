@@ -1,0 +1,50 @@
+/* src/App.css */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-header {
+  background-color: #282c34;
+  color: white;
+  padding: 1rem;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-title {
+  margin: 0;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+.app-main {
+  flex: 1;
+  padding: 1rem;
+  background-color: #f0f2f5;
+}
+
+.app-footer {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+}

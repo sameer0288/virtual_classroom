@@ -1,0 +1,65 @@
+/* src/ClassList.css */
+.class-list-container {
+    padding: 1rem;
+    background-color: #f0f2f5;
+  }
+  
+  .class-list-header {
+    background-color: #282c34;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .class-list-main {
+    padding: 1rem;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .no-classes {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .no-classes p {
+    font-size: 1.2rem;
+  }
+  
+  .create-class-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  .create-class-button:hover {
+    background-color: #45a049;
+  }
+  
+  .class-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .class-item {
+    margin-bottom: 1rem;
+  }
+  
+  .class-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.1rem;
+  }
+  
+  .class-link:hover {
+    text-decoration: underline;
+  }
+  
