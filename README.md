@@ -33,7 +33,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/virtual-classroom.git
+    git clone https://github.com/sameer0288/virtual-classroom.git
     ```
 
 2. Navigate to the `backend` directory:
